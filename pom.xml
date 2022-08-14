@@ -9,7 +9,7 @@
     <name>Kotlin Selenium UI Tests</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <kotlin.code.style>official</kotlin.code.style>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-5</selenium.version>
